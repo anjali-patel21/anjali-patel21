@@ -2,9 +2,6 @@
 
 ![myoctocat](https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png)
 
-
-
-
 <!--
 **anjali-patel21/anjali-patel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
