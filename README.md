@@ -1,7 +1,13 @@
 # Hello World 🤗 
+![](https://komarev.com/ghpvc/?username=anjali-patel21&color=red&style=flat)
+![Visits Badge](https://badges.pufler.dev/visits/anjali-patel21/anjali-patel21/?color=red)
+![Repos Badge](https://badges.pufler.dev/repos/anjali-patel21/?color=red)
+![Years Badge](https://badges.pufler.dev/years/anjali-patel21/?color=red)
 
 
-![myoctocat](https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png)
+<img align ="left" height = 400 width = 400 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
+
+
 <details>	
   <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=anjali-patel21&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
