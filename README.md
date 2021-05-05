@@ -4,6 +4,7 @@
 ![Repos Badge](https://badges.pufler.dev/repos/anjali-patel21/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/anjali-patel21/?color=red)
 
+
 <img align ="center" height = 450 width = 450 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
 
 
@@ -26,4 +27,9 @@ My 2020 GitHub Skyline                    - https://skyline.github.com/anjali-pa
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I’m currently working on . <br>
+🌱 I’m currently learning python <br>
+👯 I’m looking to collaborate on ... <br>
+🤔 I’m looking for help with ...
+
 -->
