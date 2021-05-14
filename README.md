@@ -1,8 +1,11 @@
+
 # Hello World 🤗 
+
 ![](https://komarev.com/ghpvc/?username=anjali-patel21&color=red&style=flat)
 ![Visits Badge](https://badges.pufler.dev/visits/anjali-patel21/anjali-patel21/?color=red)
 ![Repos Badge](https://badges.pufler.dev/repos/anjali-patel21/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/anjali-patel21/?color=red)
+
 <img align ="right" height = 450 width = 450 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
 
 # About Me
