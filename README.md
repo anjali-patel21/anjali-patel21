@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning python frameworks
 - 🔭 Apart from python i'm also exploring Flutter for cross-platform mobile application
-- 📄 Check out my [Resume](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1VhngPbsm1bbgz0u3Jsqjw3fl459NtwKr/view?usp=sharing)
 
 - ⚡ Fun fact: I love Dancing 💃🏼
 
