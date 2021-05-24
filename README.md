@@ -14,7 +14,8 @@
 - 🤓 I'm ambitious and optimistic person
 
 - 🌱 I’m currently learning python frameworks
-- 🔭 Apart from python i'm also exploring Flutter for cross-platform mobile application
+- 🔭 Apart from python i'm also exploring Flutter for<br>
+               cross-platform mobile application
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1VhngPbsm1bbgz0u3Jsqjw3fl459NtwKr/view?usp=sharing)
 
 - ⚡ Fun fact: I love Dancing 💃🏼
