@@ -29,7 +29,7 @@
   <summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=anjali-patel21&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <br>
 Some Advance Stats about my GitHub Profile - https://gitstats.me/anjali-patel21<br>
-My 2020 GitHub Skyline                    - https://skyline.github.com/anjali-patel21/2020
+My 2020 GitHub Skyline                    - https://skyline.github.com/anjali-patel21/2021
   
 </details>
 
