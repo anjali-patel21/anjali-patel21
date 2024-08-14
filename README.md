@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning python frameworks
 - 🔭 Apart from python i'm also exploring Flutter for<br>
                cross-platform applications
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1wsnif9ChXbTu-tRyFTB1hxULd42BGbCa/view?usp=sharing)
 - 👩🏼‍💻 I like solving challenges on [HackerRank](https://www.hackerrank.com/anjali_patel1121) 
 
 - ⚡ Fun fact: I love Dancing 💃🏼
