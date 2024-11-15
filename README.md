@@ -10,15 +10,21 @@
 
 # About Me
 
-- 🤩 I am a Python enthusiast 
-- 🤓 I'm ambitious and optimistic person
-
-- 🌱 I’m currently learning python frameworks
-- 🔭 Apart from python i'm also exploring Flutter for<br>
-               cross-platform applications
+- 👩🏼‍🎓 I am a recent Master's graduate in Information Technology and Management from The University of Texas at Dallas (May 2024).
+- 📊 I am passionate about Data Analytics and Data Engineering, with a strong foundation in Python, SQL, and data visualization tools like Tableau and Looker Studio.
+- 📈 I have hands-on experience in data analysis projects, including customer churn analysis using Python and visualizations, focusing on actionable business insights.
+- 🌱 Currently honing my skills in Data Engineering and exploring tools for big data processing and optimization.
+- 🔍 Always excited to leverage data-driven strategies to solve complex problems and support impactful decision-making.
+- 🌍 I am open to relocating anywhere within the United States for exciting opportunities that match my skill set.
+- 💬 Feel free to reach out to discuss data analytics, Python frameworks, data visualization, and anything tech-related!
 - 👩🏼‍💻 I like solving challenges on [HackerRank](https://www.hackerrank.com/anjali_patel1121) 
 
-- ⚡ Fun fact: I love Dancing 💃🏼
+# My Experience Highlights:
+- 👩🏻‍💻 Motorola Solutions Inc. - Analyzed customer churn data as a Business and Data Analytics Intern, utilizing Python, Advanced Excel, Tableau, and Looker Studio to derive actionable insights for the Sales Director of EMEA.
+- 🎓 Teaching Assistant at Jindal School of Management, where I assisted in Business Communication courses.
+- 🎮 Previous experience working as an Intramural Sports Official, showcasing my teamwork and time management skills.
+- ⚡ Fun fact: I love Dancing and am always up for a dance-off! 💃🏼
+
 
 
 
