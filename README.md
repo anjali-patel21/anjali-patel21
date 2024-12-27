@@ -6,16 +6,17 @@
 ![Repos Badge](https://badges.pufler.dev/repos/anjali-patel21/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/anjali-patel21/?color=red)
 
-<img align ="right" height = 400 width = 330 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
+<img align ="right" height = 400 width = 430 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
 
 # About Me
-
 - 📊 I am passionate about Data Analytics and Data Engineering, with a strong foundation in Python, SQL, and data visualization tools like Tableau and Looker Studio.
 - 📈 I have hands-on experience in data analysis projects, including customer churn analysis using Python and visualizations, focusing on actionable business insights.
 - 🔍 Always excited to leverage data-driven strategies to solve complex problems and support impactful decision-making.
 - 🌍 I am open to relocating anywhere within the United States for exciting opportunities that match my skill set.
 - 💬 Feel free to reach out to discuss data analytics, Python frameworks, data visualization, and anything tech-related!
 - 👩🏼‍💻 I like solving Problems on [HackerRank](https://www.hackerrank.com/anjali_patel1121) and [LeetCode](https://leetcode.com/u/anjali2112/)
+
+
 
 
 
