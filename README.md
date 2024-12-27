@@ -6,24 +6,17 @@
 ![Repos Badge](https://badges.pufler.dev/repos/anjali-patel21/?color=red)
 ![Years Badge](https://badges.pufler.dev/years/anjali-patel21/?color=red)
 
-<img align ="right" height = 400 width = 430 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
+<img align ="right" height = 300 width = 330 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
 
 # About Me
 
-- 👩🏼‍🎓 I am a recent Master's graduate in Information Technology and Management from The University of Texas at Dallas (May 2024).
 - 📊 I am passionate about Data Analytics and Data Engineering, with a strong foundation in Python, SQL, and data visualization tools like Tableau and Looker Studio.
 - 📈 I have hands-on experience in data analysis projects, including customer churn analysis using Python and visualizations, focusing on actionable business insights.
-- 🌱 Currently honing my skills in Data Engineering and exploring tools for big data processing and optimization.
 - 🔍 Always excited to leverage data-driven strategies to solve complex problems and support impactful decision-making.
 - 🌍 I am open to relocating anywhere within the United States for exciting opportunities that match my skill set.
 - 💬 Feel free to reach out to discuss data analytics, Python frameworks, data visualization, and anything tech-related!
-- 👩🏼‍💻 I like solving challenges on [HackerRank](https://www.hackerrank.com/anjali_patel1121) 
+- 👩🏼‍💻 I like solving Problems on [HackerRank](https://www.hackerrank.com/anjali_patel1121) and [LeetCode](https://leetcode.com/u/anjali2112/)
 
-# My Experience Highlights:
-- 👩🏻‍💻 Motorola Solutions Inc. - Analyzed customer churn data as a Business and Data Analytics Intern, utilizing Python, Advanced Excel, Tableau, and Looker Studio to derive actionable insights for the Sales Director of EMEA.
-- 🎓 Teaching Assistant at Jindal School of Management, where I assisted in Business Communication courses.
-- 🎮 Previous experience working as an Intramural Sports Official, showcasing my teamwork and time management skills.
-- ⚡ Fun fact: I love Dancing and am always up for a dance-off! 💃🏼
 
 
 
@@ -53,6 +46,8 @@ My 2021 GitHub Skyline                    - https://skyline.github.com/anjali-pa
 🌱 I’m currently learning python <br>
 👯 I’m looking to collaborate on ... <br>
 🤔 I’m looking for help with ...
+
+- ⚡ Fun fact: I love Dancing and am always up for a dance-off! 💃🏼
 
 
 
