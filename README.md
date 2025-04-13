@@ -9,7 +9,6 @@
 Welcome to my GitHub profile repository! I'm Anjali Patel, and this is where I showcase my work, projects, and skills. 🚀
 
 # 🌟 About Me
-<img align ="right" height = 400 width = 430 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
 
 I am a passionate developer who loves exploring new technologies, solving problems, and learning continuously. Whether it's building applications or exploring data, I enjoy bringing ideas to life!
 
@@ -63,7 +62,7 @@ I am a passionate developer who loves exploring new technologies, solving proble
 - 💬 Feel free to reach out to discuss data analytics, Python frameworks, data visualization, and anything tech-related!
 
 
-
+<img align ="right" height = 400 width = 430 alt="My Octocat" src="https://user-images.githubusercontent.com/50026172/112943892-b892bb80-914f-11eb-883c-65ceb0143274.png">
 
 <details>	
   <summary><b>GitHub Stats</b></summary>
